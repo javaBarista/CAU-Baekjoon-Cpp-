@@ -1,4 +1,2 @@
-﻿  1010(다리 놓기).cpp
-c:\users\seokmin\github\cau-baekjoon-cpp-\cau-baekjoon-cpp-\1010(다리 놓기).cpp(16): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\seokmin\github\cau-baekjoon-cpp-\cau-baekjoon-cpp-\1010(다리 놓기).cpp(19): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  2609(최대공약수와 최소공배수).cpp
   CAU-Baekjoon-Cpp-.vcxproj -> C:\Users\seokmin\Github\CAU-Baekjoon-Cpp-\Debug\CAU-Baekjoon-Cpp-.exe

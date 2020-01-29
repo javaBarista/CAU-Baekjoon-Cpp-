@@ -27,5 +27,8 @@
     <ClCompile Include="1010(다리 놓기).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1074(Z).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

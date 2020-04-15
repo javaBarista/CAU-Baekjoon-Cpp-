@@ -72,7 +72,16 @@
     <ClCompile Include="10216(Count Circle Groups).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1697%28숨바꼭질%29%28X%29.cpp">
+    <ClCompile Include="1697%28숨바꼭질%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7576(토마토).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2193(이친수).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11726%282xn 타일링%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -84,5 +84,20 @@
     <ClCompile Include="11726%282xn 타일링%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="14891(톱니바퀴).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1021(회전하는 큐).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15662(톱니바퀴2).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17070(파이프 옮기기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1182(부분수열의 합).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

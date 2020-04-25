@@ -99,5 +99,17 @@
     <ClCompile Include="1182(부분수열의 합).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2606(바이러스).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2665(미로만들기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2644(촌수계산).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1175(배달).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -111,5 +111,17 @@
     <ClCompile Include="1175(배달).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2751%28수 정렬하기2%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1026(보물).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11399(ATM).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11047%28동전 0%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
